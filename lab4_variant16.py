@@ -10,6 +10,7 @@ import random
 from tqdm import tqdm
 
 #pip install numpy pillow scikit-learn scipy opencv-python tqdm
+#Вариант 16, метод WS, доп задание 5
 
 # ====================== НАСТРОЙКИ ======================
 DATASET_PATH = r""          
