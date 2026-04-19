@@ -9,6 +9,8 @@ from sklearn.model_selection import train_test_split
 import random
 from tqdm import tqdm
 
+#pip install numpy pillow scikit-learn scipy opencv-python tqdm
+
 # ====================== НАСТРОЙКИ ======================
 DATASET_PATH = r""          
 K = 1000                                    # сколько изображений брать (K/2 cover + K/2 stego)
